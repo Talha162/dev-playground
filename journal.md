@@ -1,1 +1,2 @@
 - 2025-12-02T10:14: Refactor helper
+- 2025-12-03T16:40: Add unit note
