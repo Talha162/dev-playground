@@ -4,3 +4,4 @@
 - 2025-12-05T19:05: Update snippet docs
 - 2025-12-08T09:47: Fix formatting
 - 2025-12-09T14:30: Add example usage
+- 2025-12-11T21:12: Improve null-safety
