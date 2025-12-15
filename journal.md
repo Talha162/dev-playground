@@ -6,3 +6,4 @@
 - 2025-12-09T14:30: Add example usage
 - 2025-12-11T21:12: Improve null-safety
 - 2025-12-12T13:03: Rename variable
+- 2025-12-15T10:55: Add TODO note
