@@ -7,3 +7,4 @@
 - 2025-12-11T21:12: Improve null-safety
 - 2025-12-12T13:03: Rename variable
 - 2025-12-15T10:55: Add TODO note
+- 2025-12-16T17:20: Simplify function
