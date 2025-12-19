@@ -9,3 +9,4 @@
 - 2025-12-15T10:55: Add TODO note
 - 2025-12-16T17:20: Simplify function
 - 2025-12-18T12:41: Update README section
+- 2025-12-19T15:33: Add edge-case note
