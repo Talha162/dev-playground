@@ -11,3 +11,4 @@
 - 2025-12-18T12:41: Update README section
 - 2025-12-19T15:33: Add edge-case note
 - 2025-12-22T11:08: Small cleanup
+- 2025-12-23T18:47: Extract constant
