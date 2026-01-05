@@ -15,3 +15,4 @@
 - 2025-12-29T13:19: Add comment
 - 2025-12-30T20:02: Polish snippet
 - 2026-01-02T10:26: Refactor helper
+- 2026-01-05T15:44: Add unit note
