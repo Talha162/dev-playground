@@ -18,3 +18,4 @@
 - 2026-01-05T15:44: Add unit note
 - 2026-01-06T12:11: Tidy imports
 - 2026-01-08T09:33: Update snippet docs
+- 2026-01-09T17:58: Fix formatting
