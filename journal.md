@@ -22,3 +22,4 @@
 - 2026-01-12T14:05: Add example usage
 - 2026-01-13T20:22: Improve null-safety
 - 2026-01-15T11:40: Rename variable
+- 2026-01-16T16:15: Add TODO note
