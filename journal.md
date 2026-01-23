@@ -26,3 +26,4 @@
 - 2026-01-19T13:27: Simplify function
 - 2026-01-20T10:09: Update README section
 - 2026-01-22T19:31: Add edge-case note
+- 2026-01-23T12:52: Small cleanup
